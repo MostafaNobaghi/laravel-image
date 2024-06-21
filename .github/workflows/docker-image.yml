@@ -26,5 +26,4 @@ jobs:
           context: .
           push: true
           tags: |
-            roshangara/development:${{ github.ref_name }}
-            roshangara/development:latest
+            mostafanbz/laravel-image:latest
